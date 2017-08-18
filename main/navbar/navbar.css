@@ -1,0 +1,34 @@
+
+.navbar-box{
+    background: #fafafa;
+    min-width: 980px;
+    height: 35px;
+    border-bottom: 1px #dcdcdc solid;
+}
+.navbar-box div{
+    color: #888;
+    font-size: 9pt;
+    line-height: 35px;
+}
+.sep{
+    padding: 0 9pt;
+}
+.navbar-box-item{
+    width: 980px;
+    margin: auto;
+}
+.navbar-box-caidan{
+    display: inline-block;
+    float: left;
+}
+.navbar-box-login{
+    display: inline-block;
+    float: right;
+}
+.navbar-box-item a{
+    color: #888;
+    text-decoration: none;
+}
+.navbar-box-item a:hover{
+    color: red;
+}
